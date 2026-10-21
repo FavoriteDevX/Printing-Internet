@@ -2,7 +2,6 @@
 
 An interactive, real-time web simulation calculating what it would take to print the entire Internet, specific platforms, or any website into physical paper. Inspired by **[Neal.fun's Printing Money](https://neal.fun/printing-money/)** and grounded in the famous **2015 TechHive / University of Leicester study** (*"How Much of the Amazon Would it Take to Print the Internet?"*).
 
-![Printing the Internet Preview](https://raw.githubusercontent.com/adelli/printing-the-internet/main/public/preview.png)
 
 ---
 
@@ -84,7 +83,3 @@ This repository is optimized for one-click deployment on [Vercel](https://vercel
 - **WorldWideWebSize**: Estimation of the size of the World Wide Web.
 
 ---
-
-## 📄 License
-
-Apache 2.0 / MIT.
